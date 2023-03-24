@@ -10,4 +10,4 @@ Everything wrong with it -
 - The awful loooooooooooooot of loading time
 
 Really ugly, I know <br>
-<p style="font-family:Tangerine"> I just put it here so that I wont lose it </p>
+<p style="font-family:Lucida Handwriting"> I just put it here so that I wont lose it </p>
