@@ -10,5 +10,5 @@ Everything wrong with it -
 - The awful loooooooooooooot of loading time
 
 Really ugly, I know <br>
-<img src="https://see.fontimg.com/api/renderfont4/PK12m/eyJyIjoiZnMiLCJoIjoxMzAsInciOjIwMDAsImZzIjo2NSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYifQ/SSBqdXN0IHB1dCBpdCBoZXJlLCBzbyBJIHdvbnQgbG9zZSBpdA/geraldine-personal-use-italic.png" alt="Calligraphy fonts">
+<img src="https://see.fontimg.com/api/renderfont4/1Gvo0/eyJyIjoiZnMiLCJoIjo2OCwidyI6MjAwMCwiZnMiOjM0LCJmZ2MiOiIjRkZGRkZBIiwiYmdjIjoiI0ZGRkZGRiJ9/SSBqdXN0IHB1dCBpdCBoZXJlLCBzbyBJIHdvbnQgbG9zZSBpdA/weddingday-personal-use-regular.png" alt="Calligraphy fonts">
 
