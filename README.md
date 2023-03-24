@@ -9,5 +9,5 @@ Everything wrong with it -
 - The interface
 - The awful loooooooooooooot of loading time
 
-Really ugly, I know
-<span style="font-family:Tangerine"> I just put it here so that I wont lose it </span>
+Really ugly, I know <br>
+<div style="font-family:Tangerine"> I just put it here so that I wont lose it </div>
