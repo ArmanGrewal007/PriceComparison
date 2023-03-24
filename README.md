@@ -1,3 +1,3 @@
 # PriceComparison
 
-<img src=""working.png" height=500 align="center">
+<img src="working.png" height=500 align="center"/>
