@@ -10,4 +10,4 @@ Everything wrong with it -
 - The awful loooooooooooooot of loading time
 
 Really ugly, I know <br>
-𝕴 𝖏𝖚𝖘𝖙 𝖕𝖚𝖙 𝖎𝖙 𝖍𝖊𝖗𝖊 𝖘𝖔 𝖙𝖍𝖆𝖙 𝕴 𝖜𝖔𝖓𝖙 𝖑𝖔𝖘𝖊 𝖎𝖙
+<img src="https://see.fontimg.com/api/renderfont4/PK12m/eyJyIjoiZnMiLCJoIjoxMzAsInciOjIwMDAsImZzIjo2NSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/SSBqdXN0IHB1dCBpdCBoZXJlLCBzbyBJIHdvbnQgbG9zZSBpdA/geraldine-personal-use-italic.png" />
