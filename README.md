@@ -10,4 +10,4 @@ Everything wrong with it -
 - The awful loooooooooooooot of loading time
 
 Really ugly, I know <br>
-<p style="font-family:Times New Roman;"> I just put it here so that I wont lose it </p>
+𝕴 𝖏𝖚𝖘𝖙 𝖕𝖚𝖙 𝖎𝖙 𝖍𝖊𝖗𝖊 𝖘𝖔 𝖙𝖍𝖆𝖙 𝕴 𝖜𝖔𝖓𝖙 𝖑𝖔𝖘𝖊 𝖎𝖙
