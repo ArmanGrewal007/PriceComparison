@@ -10,4 +10,4 @@ Everything wrong with it -
 - The awful loooooooooooooot of loading time
 
 Really ugly, I know
-<span style="font-family: Zapfino, cursive"> I just put it here so that I wont lose it </span>
+<span style="font-family: Arial"> I just put it here so that I wont lose it </span>
