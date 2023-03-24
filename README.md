@@ -10,4 +10,5 @@ Everything wrong with it -
 - The awful loooooooooooooot of loading time
 
 Really ugly, I know <br>
-<img src="https://see.fontimg.com/api/renderfont4/PK12m/eyJyIjoiZnMiLCJoIjoxMzAsInciOjIwMDAsImZzIjo2NSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/SSBqdXN0IHB1dCBpdCBoZXJlLCBzbyBJIHdvbnQgbG9zZSBpdA/geraldine-personal-use-italic.png" />
+<img src="https://see.fontimg.com/api/renderfont4/PK12m/eyJyIjoiZnMiLCJoIjoxMzAsInciOjIwMDAsImZzIjo2NSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYifQ/SSBqdXN0IHB1dCBpdCBoZXJlLCBzbyBJIHdvbnQgbG9zZSBpdA/geraldine-personal-use-italic.png" />
+
