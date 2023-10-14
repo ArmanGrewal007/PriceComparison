@@ -1,7 +1,10 @@
 # PriceComparison
 
 Uses `bs4` to scrape URLs and give best price of product across several sites - 
-
+- Flipkart
+- Ebay
+- Croma
+- Amazon
 
 Python `tkinter` is used to create an interactive-GUI
 
